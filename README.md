@@ -48,8 +48,7 @@
 
 - 📅 **May 2025** – Built an IoT Workshop platform for schools  
 - 📅 **April 2025** – Published _"Getting Started with Spring Boot + Hibernate"_  
-- 📅 **March 2025** – Speaker at Web Development Meetup  
-- 🎙 **Upcoming Talk:** “From Zero to Full-Stack with Spring Boot” at Chiang Mai Dev Meetup  
+- 📅 **March 2025** – Speaker at Web Development Meetup   
 
 ---
 
