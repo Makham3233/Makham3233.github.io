@@ -51,10 +51,24 @@
 
 ## 📊 GitHub Stats  
 
-### 🔹 แบบคลาสสิก
+### 🔹 Classic Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siraprapha05&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraprapha05&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🔹 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Siraprapha05&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🔹 Trophy Showcase  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siraprapha05&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -71,6 +85,7 @@
   <img src="https://github-contribution-stats.vercel.app/api/?username=Siraprapha05" />
 </p>
 
+---
 
 ## 🎯 Fun Facts  
 
@@ -87,4 +102,4 @@
 [![Email](https://img.shields.io/badge/Email-makhan2888%40gmail.com-blue?style=for-the-badge)](mailto:makhan2888@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](#)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](#)  
-[![Twitter](https://img.shields.io/badge/X%2FTwitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](#)
+[![Twitter](https://img.shields.io/badge/X%2FTwitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](#)  
