@@ -40,29 +40,34 @@
 
 ---
 
-## ✍🏻 Blogs & Talks  
+## 🧑‍💻 GitHub Contributions (2025)
 
-- 📅 **May 2025** – Built an IoT Workshop platform for schools  
-- 📅 **April 2025** – Published _"Getting Started with Spring Boot + Hibernate"_  
-- 📅 **March 2025** – Speaker at a Web Development Meetup  
-- 🎙 **Upcoming Talk:** “From Zero to Full-Stack with Spring Boot” at Chiang Mai Dev Meetup  
+> “I may be shy, but my code speaks for me.” 💬  
+> Committed to growing a little better every day.
 
----
+![GitHub Contribution Graph](https://github.com/yourgithub.png?tab=overview&from=2025-01-01&to=2025-12-31)
 
-## 📊 GitHub Stats  
+### 📊 Overview
+- **16 Contributions** this year — slow but steady, learning as I go 🚀
+- **September:** 🟩🟩🟩🟩🟩 10 commits (my most productive month!)  
+- **Rest of 2025:** 🌱 Mostly learning, less committing – planning more projects soon
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical)
+### 📂 Recent Repositories
+| Repository | Tech | Notes |
+|-----------|------|-------|
+| Siraprapha05 | — | My personal coding playground |
+| MiniProjectTest | HTML · JS | Simple practice project |
+| it493-assignment (fork) | Java · Spring | Coursework, learning collaboration |
 
----
+### 📅 Recent Activity
+- ✅ Created 2 repositories (Sep 24, 2025)  
+- ✅ 10 commits across projects — experimenting and improving  
+- ✅ Started writing cleaner commits and better README files ✍🏻
 
-## 🎯 Fun Facts  
-
-- 👨‍💻 Wrote my first program at **age 15**  
-- ☕ My fuel = **coffee + late-night debugging**  
-- 🎧 Favorite coding music: **lofi & synthwave**  
-- 🏋️ Love **working out** to stay sharp  
-- 🌏 Love sharing knowledge through **teaching & workshops**  
+### 📝 Reflection
+> "I might not have many commits yet,  
+> but every commit is a step toward becoming  
+> a better developer and a more confident person." 💪
 
 ---
 
