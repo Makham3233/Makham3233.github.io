@@ -3,7 +3,9 @@
 **💻 Full-Stack Engineer | 📚 Tech Educator | 🌱 Lifelong Learner**  
 > _"Turning ideas into delightful and scalable software."_
 
-<img align="right" alt="Profile Picture" width="200" src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/1%2B%2B.jpg" style="border-radius: 15px;">
+<div align="center">
+  <img src="1++.jpg" alt="Thanandorn Boonchot" width="200" style="border-radius: 50%;" />
+</div>
 
 
 ---
