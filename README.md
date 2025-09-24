@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats  
 
-### 🔹 แบบคลาสสิก (Stats + Top Langs คู่กัน)
+### 🔹 แบบคลาสสิก
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -59,27 +59,18 @@
 
 ---
 
-### 🔹 Commit Streak (โชว์การ commit ต่อเนื่อง)
+### 🔹 Contribution Graph  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourgithub&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siraprapha05&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 🔹 Trophy (โชว์ Badge เหมือนเกม)
+### 🔹 Contribution Stats  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithub&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Siraprapha05" />
 </p>
 
----
-
-### 🔹 Activity Graph (กราฟ commit ทั้งปี)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithub&theme=tokyo-night&hide_border=true" />
-</p>
-
-
----
 
 ## 🎯 Fun Facts  
 
