@@ -59,19 +59,6 @@
 
 ---
 
-### 🔹 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Siraprapha05&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-### 🔹 Trophy Showcase  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siraprapha05&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 🔹 Contribution Graph  
 <p align="center">
@@ -80,12 +67,6 @@
 
 ---
 
-### 🔹 Contribution Stats  
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Siraprapha05" />
-</p>
-
----
 
 ## 🎯 Fun Facts  
 
