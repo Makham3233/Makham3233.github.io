@@ -3,7 +3,7 @@
 **💻 Full-Stack Engineer | 📚 Tech Educator | 🌱 Lifelong Learner**  
 > _"Turning ideas into delightful and scalable software."_
 
-<img align="right" alt="Profile Picture" width="200" src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/1++.png" style="border-radius: 15px;">
+<img align="right" alt="Profile Picture" width="200" src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/1++.jsp" style="border-radius: 15px;">
 
 ---
 
