@@ -15,14 +15,14 @@
 
 ---
 
-## 🧰 Tech Stack & Tools  
+## 🧰 Tech Stack & Tools
 
-| **Domain**   | **Main**            | **Comfortable**  | **Exploring**  |
-|-------------|-------------------|----------------|---------------|
-| 🎨 **Frontend** | React · HTML · CSS | Bootstrap · JS | TypeScript · Next.js |
-| ⚙️ **Backend**  | Java (Spring Boot) | PHP · Python  | Node.js · NestJS |
-| 🗄 **Database** | MySQL | SQLite | PostgreSQL · MongoDB |
-| 🚀 **DevOps**   | Git · GitHub | Docker | Kubernetes · GitHub Actions |
+| **Domain**   | **Primary**         | **Comfortable**  | **Currently Exploring** |
+|-------------|-------------------|----------------|-----------------------|
+| 🎨 **Front-end** | React · TypeScript | Next.js        | SvelteKit |
+| ⚙️ **Back-end**  | Node · Express   | NestJS        | Go |
+| 🗄 **Data**      | PostgreSQL      | MongoDB       | DuckDB |
+| 🚀 **DevOps**    | Docker          | GitHub Actions| Kubernetes |
 
 ---
 
