@@ -2,7 +2,7 @@
   <img src="1++.jpg" alt="Jiraphat Thongrat" width="180" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
 </div>
 
-<h1 align="center">👋 Hello, I'm <strong>Jiraphat Thongrat</strong></h1>
+<h1 align="center">👋 Hi, I’m <strong>Jiraphat Thongrat</strong></h1>
 
 <p align="center">
   <strong>💻 Full-Stack Engineer | 📚 Tech Educator | 🌱 Lifelong Learner</strong><br>
