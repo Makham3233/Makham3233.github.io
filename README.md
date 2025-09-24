@@ -3,10 +3,12 @@
 **💻 Full-Stack Engineer | 📚 Tech Educator | 🌱 Lifelong Learner**  
 > _"Turning ideas into delightful and scalable software."_
 
+<img align="right" alt="Profile Picture" width="200" src="YOUR_PROFILE_IMAGE_URL" style="border-radius: 15px;">
+
 ---
 
 ## 🚀 About Me  
-- 👨‍💻 **I’m a tech guy** passionate about solving real-world problems with code  
+- 👨‍💻 **Tech Enthusiast** passionate about solving real-world problems with code  
 - 🌱 **Currently Learning:** Spring Boot · React · Docker  
 - 🛠 **Daily Stack:** Java · Python · PHP · MySQL · React  
 - 🎯 **2025 Goal:** Build an **open-source IoT project** with real-world users  
@@ -15,16 +17,15 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack & Tools  
 
 | **Category** | **Primary (Very Good)** | **Good** | **Currently Exploring (Fair)** |
 |-------------|------------------------|---------|-----------------------------|
-| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) |
-| ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-| 🗄 **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| 🛠 **IDE & Tools** | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
-| 🚀 **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-
+| 🎨 **Frontend** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| ⚙️ **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | - | ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
+| 🗄 **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | - | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| 🛠 **IDE & Tools** | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
+| 🎨 **UX/UI Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | - | ![Motiff](https://img.shields.io/badge/Motiff-000000?style=for-the-badge&logoColor=white) |
 
 ---
 
@@ -60,15 +61,14 @@
 - 👨‍💻 Wrote my first program at **age 15**  
 - ☕ My fuel = **coffee + late-night debugging**  
 - 🎧 Favorite coding music: **lofi & synthwave**  
-- 🏋️ I like **working out** to stay sharp and focused  
-- 🌏 Enjoy sharing knowledge through teaching & workshops  
+- 🏋️ Love **working out** to stay sharp  
+- 🌏 Love sharing knowledge through **teaching & workshops**  
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Connect With Me  
 
-- 💌 **Email:** [makhan2888@gmail.com](mailto:makhan2888@gmail.com)  
-- ☕ **Book a Coffee Chat:** [Calendly](#)  
-- 🐦 **DM me on X/Twitter:** [@yourhandle](#)  
-
-> _“Great products are built when great people work together.”_
+[![Email](https://img.shields.io/badge/Email-makhan2888%40gmail.com-blue?style=for-the-badge)](mailto:makhan2888@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](#)  
+[![Twitter](https://img.shields.io/badge/X%2FTwitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](#)
